@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Aiden Wang"
 title_separator          : "-"
 name                     : &name "Aiden Wang"
 description              : &description "Thrid-Year Networking & Cybersecurity Student at Virginia Tech"
@@ -22,8 +22,8 @@ repository               : "AidenJWang/AidenJWang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Aiden Wang"
+  pronouns         : "He/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Blacksburg, Virginia"
   employer         : "Virginia Tech"
