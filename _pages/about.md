@@ -11,7 +11,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Welcome to Aiden Wang's Personal Website
 ======
-I'm Aiden Wang, a Computer Engineering student at Virginia Tech, passionate about embedded systems, circuit design, and programming. My academic journey is fueled by my curiosity for technology and how it shapes our interaction with devices, making them more efficient and functional.
+I'm Aiden Wang, a Computer Engineering student at Virginia Tech, passionate about embedded systems, circuit design, networking, and programming. My academic journey is fueled by my curiosity for technology and how it shapes our interaction with devices, making them more efficient and functional.
 
 About Me
 ======
