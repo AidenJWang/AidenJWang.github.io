@@ -22,16 +22,16 @@ Skills
 * Microsoft Office (Word, Excel, PowerPoint)
 * Adaptability: I can apply my proficiency in one language to quickly expand my knowledge into more languages
 (Python, C#, Java, etc.)
-* Clear and concice communicator
+* Clear and concise communicator
 
 Projects
 ======
 * Home Audio System - Developed a home audio system covering frequencies from 10 Hz to 10 kHz to 
 bring a custom listening experience to headphones.
-* Microcontroller Rock, Paper, Scissors (SoC Embedded System w/ C) – Developed a rock, paper, scissors game on
+* Microcontroller Rock, Paper, Scissors (SoC Embedded System w/ C) - Developed a rock, paper, scissors game on
 the TI MSP432 microcontroller to demonstrate understanding of pin configuration, API usage, UART
 communication, finite-state machine implementation, timers, and computer architecture.
-* Reinforcement Learning Tic-Tac-Toe Agent (C++) – Helped develop a reinforcement learning agent that utilizes
+* Reinforcement Learning Tic-Tac-Toe Agent (C++) - Helped develop a reinforcement learning agent that utilizes
 Q-Learning.
-* Microcontroller “Surfers” Game (SoC Embedded System w/ C) – Developed a 2D platforming game on the TI
+* Microcontroller "Surfers" Game (SoC Embedded System w/ C) - Developed a 2D platforming game on the TI
 MSP432 microcontroller to bring a custom game experience to the embedded system.
